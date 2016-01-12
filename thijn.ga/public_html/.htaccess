@@ -1,0 +1,19 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:xtKFNi
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^thijn.ga$ [OR]
+RewriteCond %{HTTP_HOST} ^www.thijn.ga$
+RewriteRule ^kaart$ http://3d0a28414c2eb1dcb7d5be66894b52d21c8394c5.googledrive.com/host/0BwKToJflfsKfNUxrWHBiQ3JvdEU/xsMapping.html?f=jotari-2016.kaart.1385369021.json [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE xtKFNi:REDIRECTID
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:k2yX4Y
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^thijn.ga$ [OR]
+RewriteCond %{HTTP_HOST} ^www.thijn.ga$
+RewriteRule ^stopmetzeurensteef$ http://docs.google.com/document/d/1jVRiwooW7-K6spWwoikar0tszAOn3eAgk2FjuijiDFk/edit?usp=sharing [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE k2yX4Y:REDIRECTID
+
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+

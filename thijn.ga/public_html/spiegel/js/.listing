@@ -1,0 +1,16 @@
+drwxr-xr-x    8 a9556686   a9556686         4096 Jan 10 13:18 .
+drwxr-xr-x    6 a9556686   a9556686         4096 Jan 10 13:18 ..
+drwxr-xr-x    2 a9556686   a9556686         4096 Jan 10 13:18 calendar
+drwxr-xr-x    2 a9556686   a9556686         4096 Jan 10 13:18 compliments
+-rw-r--r--    1 a9556686   a9556686         1233 Jan 10 13:40 config.js
+-rw-r--r--    1 a9556686   a9556686         7407 Jan 10 13:18 ical_parser.js
+-rw-r--r--    1 a9556686   a9556686         1238 Jan 10 13:18 jquery.feedToJSON.js
+-rw-r--r--    1 a9556686   a9556686        83615 Jan 10 13:18 jquery.js
+-rw-r--r--    1 a9556686   a9556686         1070 Jan 10 13:18 main.js
+-rw-r--r--    1 a9556686   a9556686       170649 Jan 10 13:18 moment-with-locales.min.js
+drwxr-xr-x    2 a9556686   a9556686         4096 Jan 10 13:18 news
+-rw-r--r--    1 a9556686   a9556686        60012 Jan 10 13:18 rrule.js
+-rw-r--r--    1 a9556686   a9556686        44814 Jan 10 13:18 socket.io.min.js
+drwxr-xr-x    2 a9556686   a9556686         4096 Jan 10 13:18 time
+drwxr-xr-x    2 a9556686   a9556686         4096 Jan 10 13:18 version
+drwxr-xr-x    2 a9556686   a9556686         4096 Jan 10 13:18 weather
